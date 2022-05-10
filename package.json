@@ -1,0 +1,26 @@
+{
+  "name": "jsdoc",
+  "version": "1.0.0",
+  "description": "JSDoc study and playground",
+  "main": "index.js",
+  "dependencies": {
+    "jsdoc": "^3.6.10",
+    "nodejs": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/app.js",
+    "doc": "jsdoc -c jsdoc/conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xLonelyPlayer/jsdoc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xLonelyPlayer/jsdoc/issues"
+  },
+  "homepage": "https://github.com/xLonelyPlayer/jsdoc#readme"
+}
