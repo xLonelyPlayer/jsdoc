@@ -1,4 +1,6 @@
 # jsdoc
 JSDoc study and playground
 
-npm run dev
+`npm install`
+
+`npm run dev`
