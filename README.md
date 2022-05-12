@@ -1,5 +1,7 @@
 # jsdoc
-JSDoc study and playground
+JSDoc study and playground.
+
+This is a simple test using JSDoc, modules and functions may not represent real usage.
 
 `npm install`
 
